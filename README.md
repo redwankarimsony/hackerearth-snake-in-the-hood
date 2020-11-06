@@ -25,5 +25,12 @@ Deep Learning is an application of Artificial Intelligence (AI) that provides sy
 * Data Science or Machine Learning enthusiasts
 * College students (if you understand the basics of predictive modeling)
 
-#Necessary Tutorials: 
+# Necessary Tutorials: 
 * [Machine Learning Tutorials](https://www.hackerearth.com/practice/machine-learning/machine-learning-algorithms/beginners-guide-regression-analysis-plot-interpretations/tutorial/)
+
+
+# My Solution Pipelines: 
+* [Solution with Only HackerEarth Data](https://nbviewer.jupyter.org/github/redwankarimsony/hackerearth-snake-in-the-hood/blob/main/Snake_Detection.ipynb)
+* [Solution with the Added AiCrowd Data](https://nbviewer.jupyter.org/github/redwankarimsony/hackerearth-snake-in-the-hood/blob/main/Snake_Detection_%5BAi_Crowd_Data_Score_42_59%5D.ipynb)
+
+
