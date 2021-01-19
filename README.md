@@ -34,6 +34,6 @@ Deep Learning is an application of Artificial Intelligence (AI) that provides sy
 * [Solution with the Added AiCrowd Data \[Score: 42.59\]](https://nbviewer.jupyter.org/github/redwankarimsony/hackerearth-snake-in-the-hood/blob/main/notebooks/Snake_Detection_%5BAi_Crowd_Data_Score_42_59%5D.ipynb)
 * [Solution with the Added AiCrowd Data \[Score: 50.11\]](https://nbviewer.jupyter.org/github/redwankarimsony/hackerearth-snake-in-the-hood/blob/main/notebooks/Snake_Detection_%5BAi_Crowd_Data_Score_50_11%5D.ipynb)
 * [Solution with the Added AiCrowd Data \[Score: 54.06\]](https://nbviewer.jupyter.org/github/redwankarimsony/hackerearth-snake-in-the-hood/blob/main/notebooks/Snake_Detection_%5BAi_Crowd_Data_Score_54_06%5D.ipynb)
-* [Solution with the Added CiCrowd Data \[Score: 60.61]][https://github.com/redwankarimsony/hackerearth-snake-in-the-hood/blob/main/Snake_Detection_%5BAi_Crowd_Data_Score_58_08%5D.ipynb]
+* [Solution with the Added CiCrowd Data \[Score: 60.61\]](https://github.com/redwankarimsony/hackerearth-snake-in-the-hood/blob/main/Snake_Detection_%5BAi_Crowd_Data_Score_58_08%5D.ipynb)
 
 
